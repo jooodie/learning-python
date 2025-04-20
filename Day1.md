@@ -5,6 +5,7 @@
 
 
 變數、型態、輸出輸入、運算
+
 🔹 變數宣告
 python
 複製
@@ -31,10 +32,6 @@ print(資料或變數)
 int(input("輸入整數："))
 float(input("輸入小數："))
 
-Task:
-<img width="461" alt="截圖 2025-04-20 上午10 02 43" src="https://github.com/user-attachments/assets/60c21087-1610-4001-8386-04b94fe7464f" />
-
-
 🔹 基本四則運算
 python
 複製
@@ -48,7 +45,10 @@ python
 
 ---
 
-條件判斷 if / elif / else<img width="549" alt="截圖 2025-04-20 上午10 05 17" src="https://github.com/user-attachments/assets/c8e6b688-0167-4cc7-9070-85d4ed559032" />
+Task:
+<img width="461" alt="截圖 2025-04-20 上午10 02 43" src="https://github.com/user-attachments/assets/60c21087-1610-4001-8386-04b94fe7464f" />
+
+---
 
 🔹 if / else 基本結構
 python
@@ -95,6 +95,7 @@ not  # 反向
 條件內不用加括號（if age > 18: OK）
 程式區塊要縮排
 
+---
 
 Task:
 <img width="549" alt="截圖 2025-04-20 上午10 05 17" src="https://github.com/user-attachments/assets/e4f5c8d2-24ef-4efb-b887-3da1fee25810" />
