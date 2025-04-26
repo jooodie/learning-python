@@ -44,11 +44,14 @@ cherry
 
 ```
 
-#### Q1 不用自己定義 i = 0嗎？ 
+### Q1 不用自己定義 i = 0嗎？ 
 👉是的！(in python) 因為 for 迴圈的 range() 幫你自動處理了。
-#### Q2 沒有定義 fruit 是什麼，它怎麼知道要印list裡的東西？ 
+### Q2 沒有定義 fruit 是什麼，它怎麼知道要印list裡的東西？ 
 👉 因為 for loop 在讀 list 時，是自動幫你把每個元素「一個一個取出來」，交給你設定的變數（這裡是 fruit）使用
 
+👉 fruit的名稱可以換成任何你想要的（只要自己記得是什麼就可以）
+
+---
 
 ## Small Task印出九九乘法表
 <img width="413" alt="截圖 2025-04-21 上午9 28 54" src="https://github.com/user-attachments/assets/efd10d02-e914-41b4-8912-65d571197c2f" />
